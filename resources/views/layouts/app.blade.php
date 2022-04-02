@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" content="DataSoft  IT Solutions &  Services Template">
+  <meta name="description" content="Solar Installation">
   <link style="max-height: 23px" href="assets/images/favicon/favicon.png" rel="icon">
   <title>Inter-Trade Ltd. - </title>
 

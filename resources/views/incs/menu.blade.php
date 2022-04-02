@@ -41,28 +41,28 @@
             <div class="collapse navbar-collapse" id="mainNavigation">
               <ul class="navbar-nav ml-auto">
                 <li class="nav__item has-dropdown">
-                  <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Home</a>
+                  <a href="{{route('home')}}"  class="dropdown-toggle nav__item-link active">Home</a>
                   
                 </li><!-- /.nav-item -->
                 <li class="nav__item has-dropdown">
-                  <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Company</a>
+                  <a href="{{route('about')}}"  class="dropdown-toggle nav__item-link">Company</a>
                   
                 </li><!-- /.nav-item -->
                 <li class="nav__item has-dropdown">
-                  <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Engineering Solutions</a>
+                  <a href="{{route('services')}}"  class="dropdown-toggle nav__item-link">Engineering Solutions</a>
             
                 </li><!-- /.nav-item -->
                 
                 <li class="nav__item has-dropdown">
-                  <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Blog</a>
+                  <a href="{{route('blog')}}"  class="dropdown-toggle nav__item-link">Blog</a>
              
                 </li><!-- /.nav-item -->
                 <li class="nav__item has-dropdown">
-                  <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Features</a>
+                  <a href="{{route('gallery')}}"  class="dropdown-toggle nav__item-link">Gallery</a>
                
                 </li><!-- /.nav-item -->
                 <li class="nav__item">
-                  <a href="contact-us.html" class="nav__item-link">Contacts</a>
+                  <a href="{{route('contact')}}" class="nav__item-link">Contacts</a>
                 </li><!-- /.nav-item -->
               </ul><!-- /.navbar-nav -->
               <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>

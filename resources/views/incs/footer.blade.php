@@ -88,7 +88,7 @@
               </nav>
             </div><!-- /.footer-widget__content -->
           </div><!-- /.col-lg-2 -->
-          <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
+          {{-- <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
             <h6 class="footer-widget__title">Download</h6>
             <div class="footer-widget__content">
               <a href="#" class="btn btn__white btn__download mb-20">
@@ -100,7 +100,7 @@
                 <span>Google Play</span>
               </a>
             </div><!-- /.footer-widget__content -->
-          </div><!-- /.col-lg-2 -->
+          </div><!-- /.col-lg-2 --> --}}
         </div><!-- /.row -->
       </div><!-- /.footer-primary -->
       <div class="row">
